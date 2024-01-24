@@ -5,7 +5,7 @@
 # 1. Cual ha sido el dia con mas casos nuevos
 
 # El primer paso es elegir pais
-pais_de_interes=$2
+pais_de_interes=$1
 
 # Enviar mensaje de inicio
 echo " Analizando datos de $pais_de_interes "
